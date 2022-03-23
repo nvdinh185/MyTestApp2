@@ -24,10 +24,6 @@
         "source": "D:\\REACT NATIVE\\test\\MyTestApp2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\REACT NATIVE\\test\\MyTestApp2\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
-        "source": "D:\\REACT NATIVE\\test\\MyTestApp2\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnative_libraries_newappscreen_components_logo.png"
-    },
-    {
         "merged": "D:\\REACT NATIVE\\test\\MyTestApp2\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\REACT NATIVE\\test\\MyTestApp2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
